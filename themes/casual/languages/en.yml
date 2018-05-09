@@ -9,7 +9,7 @@ search: search
 
 recent:
   posts: Recent Posts
-  comments: Recent Comments
+#  comments: Recent Comments
 
 prev_text: Prev
 next_text: Next
